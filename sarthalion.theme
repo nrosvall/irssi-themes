@@ -79,4 +79,3 @@ abstracts = {
   sb_act_hilight = "%Y$*";
   sb_act_hilight_color = "$0$1-%n";
 };
-# vim:ft=config
